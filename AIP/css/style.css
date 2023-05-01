@@ -1,0 +1,57 @@
+/** HEADER 
+#header-nav {
+  background-color:grey;
+}
+
+.navbar-brand h1 { /*food,llc
+  color: black;
+  font-size: 1.5em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+  padding: 2px;
+
+}*/
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.navbar{
+
+border: none;
+background-color: grey;
+color: #61122F;
+}
+body{
+  background-color: #61122F;
+  color: white;
+}
+.glyphicon{
+  font-size: 30px;
+  color:#61122F; 
+}
+
+.center{
+  width: 90%;
+  background-color: grey;
+
+}
+.container
+{
+  background-color: grey;
+}
+.text-center{
+  font-size: 30px;
+}
+
+h2{
+  text-align: center;
+}
+#myNavbar ul li a {
+  color: #61122F;
+}
+.navbar-brand{
+font-size: 30px;  
+}
